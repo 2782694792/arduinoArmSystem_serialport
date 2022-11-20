@@ -1,0 +1,7 @@
+debug
+.qmake.stash
+release
+*.vcxproj 
+*.filters
+*.user
+.vs
